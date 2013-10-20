@@ -10,7 +10,9 @@ body {
 }
 
 header {
-	background-color : #2F2D3E;	
+	background-color : #2F2D3E;
+	padding : 0 20px 0 30px;
+	margin : 50px 0 0 0;	
 }
 
 h1,
@@ -18,7 +20,7 @@ h2,
 h3 {
 font-family: 'Metamorphous', cursive; 
 color : #68AEA3;
-font-size : 75px;	
+font-size : 65px;	
 }
 
 h2 {
